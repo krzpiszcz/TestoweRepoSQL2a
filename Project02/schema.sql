@@ -1,5 +1,5 @@
 -- COMP9311 15s2 Project 2 Schema
---
+-- done by kp2
 
 -- ShortStrings are typically used for values appearing in tables in the UI
 create domain ShortString as varchar(16);
