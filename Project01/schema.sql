@@ -1,5 +1,5 @@
 -- COMP9311 15s2 Project 1 Schema
---
+-- changed by kp2
 -- MyMyUNSW Schema
 
 -- ShortStrings are typically used for values appearing in tables in the UI
